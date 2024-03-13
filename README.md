@@ -1,6 +1,6 @@
 
 
-<p align="center">Futuro dev Full Stack</p>&nbsp;
+<p align="center">Student Full Stack</p>&nbsp;
  
  &nbsp;
  &nbsp;
