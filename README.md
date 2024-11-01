@@ -9,18 +9,17 @@
 	<a href="https://github.com/danielluiz07?tab=repositories">
 		<img height="150em" src="https://github-readme-stats.vercel.app/api?username=danielluiz07&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true" alt="Stats">
 		<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danielluiz07&layout=compact&langs_count=7&theme=gruvbox" alt="Most used languages">
-		<img height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=danielluiz07&theme=dark&background=282828&border=e4e2e2&stroke=555555&ring=d8a52e&currStreakLabel=fd8019&sideNums=8ec07c&sideLabels=8ec07c&currStreakNum=8ec07c" alt="GitHub Streak">
-		# snk
-
-		[![GitHub Workflow Status](https://img.shields.io/github/actions/workflow/status/platane/platane/main.yml?label=action&style=flat-square)](https://github.com/Platane/Platane/actions/workflows/main.yml)
-		[![GitHub release](https://img.shields.io/github/release/platane/snk.svg?style=flat-square)](https://github.com/platane/snk/releases/latest)
-		[![GitHub marketplace](https://img.shields.io/badge/marketplace-snake-blue?logo=github&style=flat-square)](https://github.com/marketplace/actions/generate-snake-game-from-github-contribution-grid)
-		![type definitions](https://img.shields.io/npm/types/typescript?style=flat-square)
-		![code style](https://img.shields.io/badge/code_style-prettier-ff69b4.svg?style=flat-square)
+		<img height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=danielluiz07&theme=dark&background=282828&border=e4e2e2&stroke=555555&ring=d8a52e&currStreakLabel=fd8019&sideNums=8ec07c&sideLabels=8ec07c&currStreakNum=8ec07c" alt="GitHub Streak">	
 	</a>
 </div>
 
+# snk
 
+[![GitHub Workflow Status](https://img.shields.io/github/actions/workflow/status/platane/platane/main.yml?label=action&style=flat-square)](https://github.com/Platane/Platane/actions/workflows/main.yml)
+[![GitHub release](https://img.shields.io/github/release/platane/snk.svg?style=flat-square)](https://github.com/platane/snk/releases/latest)
+[![GitHub marketplace](https://img.shields.io/badge/marketplace-snake-blue?logo=github&style=flat-square)](https://github.com/marketplace/actions/generate-snake-game-from-github-contribution-grid)
+![type definitions](https://img.shields.io/npm/types/typescript?style=flat-square)
+![code style](https://img.shields.io/badge/code_style-prettier-ff69b4.svg?style=flat-square)
 
 ## My Skills
 
