@@ -1,6 +1,6 @@
 
 
-<p align="center">Prazer me Chamo Daniel Luiz</p>&nbsp;
+<p align="center">Prazer me Chamo Daniel Luiz, sou aluno do curso de infomática do IFPB campus picuí.</p>&nbsp;
  
  &nbsp;
  &nbsp;
