@@ -44,14 +44,9 @@
 
 ### Ferramentas
 
-[![My Skills](https://skillicons.dev/icons?i=vscode,sublime, notion)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=vscode,sublime,notion)](https://skillicons.dev)
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
-
-#### Workstation Tools:
-
-![VScode](https://img.shields.io/badge/vscode-4285F4?style=for-the-badge&logo=vscode&logoColor=white)&nbsp;
-![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)&nbsp;
 
 
 &nbsp;
