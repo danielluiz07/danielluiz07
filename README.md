@@ -1,11 +1,9 @@
 # 🚀 Daniel Luiz
 
-_Student Full Stack_
-&nbsp;
-&nbsp;
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,py,react,tailwind,bootstrap)](https://skillicons.dev)
-&nbsp;
-&nbsp;
+_Student Full Stack_&nbsp;
+
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,py,react,tailwind,bootstrap)](https://skillicons.dev)&nbsp;
+
 
 <div align="center">
 	<a href="https://github.com/danielluiz07?tab=repositories">
