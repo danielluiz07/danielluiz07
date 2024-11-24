@@ -2,7 +2,9 @@
 
 _Student Full Stack_
 &nbsp;
+&nbsp;
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,py,react,tailwind,bootstrap)](https://skillicons.dev)
+&nbsp;
 &nbsp;
 
 <div align="center">
