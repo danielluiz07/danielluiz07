@@ -6,10 +6,7 @@ _Student Full Stack_&nbsp;
 
 
 <picture>
-  <img
-    alt="github contribution grid snake animation"
-    src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
-  />
+  <img src="https://raw.githubusercontent.com/sagar-viradiya/sagar-viradiya/master/resources/banner.png" alt="Hello Dev`s">
 </picture>
 
 ## My Skills
