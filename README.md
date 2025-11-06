@@ -6,7 +6,7 @@ _Student Full Stack_&nbsp;
 
 
 <picture>
-  <img src="https://raw.githubusercontent.com/sagar-viradiya/sagar-viradiya/master/resources/banner.png" alt="Hello Dev`s">
+ 
 </picture>
 
 ## My Skills
