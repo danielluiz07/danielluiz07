@@ -1,4 +1,4 @@
-# 🚀 Daniel Luiz
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=3B18F7&width=435&lines=Student+Full+Stack+%F0%9F%91%A8%F0%9F%8F%BE%E2%80%8D%F0%9F%92%BB;Me+chamo+Daniel+Luiz+%F0%9F%A4%93;Pode+me+chamar+de+DL+%F0%9F%91%8D%F0%9F%8F%BE;Focado+no+Progresso+%F0%9F%9A%80)](https://git.io/typing-svg)
 
 _Student Full Stack_&nbsp;
 
