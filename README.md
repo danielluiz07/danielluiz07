@@ -90,5 +90,6 @@ _Student Full Stack_&nbsp;
  
 
   
-  
+
+<img height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=danielluiz07&theme=dark&background=282828&border=e4e2e2&stroke=555555&ring=d8a52e&currStreakLabel=fd8019&sideNums=8ec07c&sideLabels=8ec07c&currStreakNum=8ec07c" alt="GitHub Streak">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:031cfc&height=120&section=footer"/>
