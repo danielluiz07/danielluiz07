@@ -87,8 +87,5 @@ _Student Full Stack_&nbsp;
 <a href = "mailto:contato.danielluiz1607@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in//" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"  target="_blank"></a>  
 </div>&nbsp;&nbsp;
-
-[![Daniel luiz stats](https://github-readme-stats.vercel.app/api?username=danielluiz07)](https://github.com/danielluiz07/github-readme-stats)
-
  
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:031cfc&height=120&section=footer"/>
